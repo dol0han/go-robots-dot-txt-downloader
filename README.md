@@ -1,4 +1,4 @@
-Go Robots.txt Downloader
+# Go Robots.txt Downloader
 
 This is a simple Go program that downloads the /robots.txt file from a list of domains and saves it to a newly created folder with the same name as the domain.
 Prerequisites
